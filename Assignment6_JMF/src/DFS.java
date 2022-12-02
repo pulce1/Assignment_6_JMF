@@ -2,7 +2,6 @@
  * This Class is the class used in the application to use recursion to traverse a tree, printing each step
  * @author James Frayser
  * @version 12/1/2022
- *
  */
 public class DFS 
 {
@@ -18,7 +17,7 @@ public class DFS
 	{
 		
 		System.out.println("Call DFS with the root node to do a Depth First Search.");
-	}//end DepthFirstSearch method
+	}
 	
 	/**
 	 * 

@@ -69,7 +69,6 @@ public class Tree {
 				 level++;System.out.println("Level: "+level);
 			 }
 			 
-		
 		return root;
 		
 	}

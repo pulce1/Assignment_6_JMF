@@ -1,8 +1,4 @@
 /**
- * 
- */
-
-/**
  * @author Nathan Johnson, Bellarmine University
  *
  */

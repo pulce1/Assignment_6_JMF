@@ -1,7 +1,6 @@
 
 /**
  * @author Nathan Johnson, Bellarmine University
- *
  */
 public class Node {
 	private int data;
